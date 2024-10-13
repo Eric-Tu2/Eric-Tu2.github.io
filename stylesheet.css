@@ -6,7 +6,7 @@ p {
 div {
     width: 400px;
     border: 15px black;
-    align-items: right;
+    text-align: right;
 }
 
 a:hover {
