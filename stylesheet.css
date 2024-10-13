@@ -2,8 +2,13 @@ p {
     background-color: red;
 }
 
-a:hover {
+.class-two a:link .class-two a:visited {
+    color:blue;
+}
+
+.class-two a:hover {
     color: green;
+    background-color: aqua;
 }
 
 .class-one {
