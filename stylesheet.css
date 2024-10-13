@@ -6,3 +6,8 @@ p {
     color: blue;
     align-items: center;
 }
+
+#id-one {
+    color: purple;
+    background-color: yellow;
+}
