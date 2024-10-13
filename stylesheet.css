@@ -6,7 +6,10 @@ p {
 div {
     width: 400px;
     border: 15px black;
-    text-align: right;
+    padding: 50px;
+    text-align: end;
+    align-items: end;
+    margin: 0;
 }
 
 a:hover {
