@@ -2,6 +2,11 @@ p {
     background-color: red;
 }
 
+div {
+    width: 400px;
+    border: 15px black;
+}
+
 .class-two a:link .class-two a:visited {
     color:blue;
 }
